@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A.N.M KUMO NIG LTD</title>
+</head>
+<body>
+    <!--navigation code-->
+    <div class="nav">
+        <center><ul>
+        <li><a href="#Home">HOME</a> </li>
+        
+        <li><a href="#About us">ABOUT US</a> </li>
+        
+        <li><a href="#Services">SERVICES</a></li>
+
+        <li><a href="#">OUR PRICING</a></li>
+        
+        <li><a href="#Contact us">CONTACT US</a> </li>
+        
+    
+        </ul></center>
+        
+    </div>
+        </body>
+        </html>
+        <!--css style-->
+        <style>
+        body{
+            font-size: 20px;
+            color: black;
+            background: url(anm.png) no-repeat;
+            background-size: cover;
+            background-position: 100%;
+
+
+        }
+        nav{
+            text-align: center;
+            border: 100%;
+            padding-bottom: top;
+            margin-bottom: top;
+            border-radius: 3px;
+            
+        }
+
+        code ul{
+        text-align: center;
+        position:relative;
+        background-color:blue}
+        
+        li{
+        display:inline-block;
+        list-style-type: square;
+        font-size: 25px;
+        margin: 0;
+        padding:15px;}
+
+        li:hover{
+        background-color:rgb(133, 169, 221);}
+        
+        a{
+        color: rgb(71, 96, 114);
+        text-decoration:none;
+        text-align:center;}
+
+        
+        .contact{
+            display: inline-flex;
+            list-style-type: none;
+            direction: ltr;
+        }
+
+        ul,li,.adr{
+            list-style-type: list;
+
+        }
+        </style>
+    <!--about the company-->
+    <p><h7>
+        The <a href="#Home" >ANM KUMO NIG LTD</a>  is a global business interprise that supply the electronic accesories such as Laptop,Android Phones,bluethoo,Wireless,Flash Drive, Hard disk and  SD Card E.T.C. 
+    </p>
+<!--registration or login link area code-->
+    <a href="file:///C:/Users/MUSTAPHA/Desktop/anmkumonigltd/form.html">REGISTER <br><a href="file:///C:/Users/MUSTAPHA/Desktop/anmkumonigltd/login.html">Login</a></a>
+</body>
+</html><br>
+
+<!--contact address-->
+<p class="contact">
+            <div class="con" href="#Contact us">
+                <style>
+                    .con{
+                        background-color: rgb(161, 236, 211);
+                    }
+                </style>
+                <li><a href="tel:+234 704 867 9580"> Call us</a></li><br>
+                <li><a href="https://t.me/anmkumo">Telegram</a></li><br>
+                <li><a href="tel:+2347016075995">WhatsApp</a></li><br>
+                <li><a href="">Facebook</a></li><br>
+            </div>
+</p>
+
+
+<!--quick links, services,contact us-->
+<p class="adr">
+<ol>
+   <a href="#Quick links"><li>Quick links</li></a> <br>
+    <a href="#Services"><li>Services</li></a><br>
+    <a href="#contact us"><li>Contact us</li></a><br>
+</ol>
+</p>
+
+<hr>
+<TABLE CELLPADDING="2" CELLSPACING="2"
+WIDTH="100%">
+<tr><th>Head Office</th><th> Branch Office Address</th><th>Contact Us</th></tr>
+<tr><td>Along Akko emir drive,kumo Gombe State.</td>
+    <td>Inside old motor park bali, shop 04 adjecent <br> metal scrape area. bali taraba State</td>
+    <td><a href="tel:+2347016075995">call us</a><br>
+        <a href="t.me/anmkumo">Telegram</a><br>
+        <a href="mailto:almustaphanuhumusa@gmail.com">Mail Us</a></td></tr>
+</TABLE>
+
+
+<p> <center>© 2024. All rights Reserved. by ANM KUMO NIG</center> 
